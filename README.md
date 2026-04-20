@@ -2,7 +2,8 @@
 
 Audit du chiffre d'affaires d'un supermarché suite à une variation inexpliquée dans le reporting Power BI. Identification de la root cause, analyse SQL, et mise en place d'un prototype de fiabilisation.
 
-![Démarche d'audit](img/p4.png)
+<img width="2346" height="426" alt="p4" src="https://github.com/user-attachments/assets/98213672-3b16-4433-b34d-ddba11b86dbc" />
+
 
 ## Contexte
 
